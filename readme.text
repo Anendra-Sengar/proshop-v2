@@ -1,0 +1,10 @@
+mongo_uri :
+
+mongodb+srv://anendrasengar1996:<password>@cluster0.ejdrpmb.mongodb.net/?retryWrites=true&w=majority
+
+password : anendrasengar1996
+database : proshop
+collection : products
+
+new uri add some details
+mongodb+srv://anendrasengar1996:anendrasengar1996@cluster0.ejdrpmb.mongodb.net/?retryWrites=true&w=majority
